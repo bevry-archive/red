@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "red", "red\red.csproj", "{59ECD16D-B61C-442B-A0A3-2D9C7F2FE6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59ECD16D-B61C-442B-A0A3-2D9C7F2FE6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ECD16D-B61C-442B-A0A3-2D9C7F2FE6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ECD16D-B61C-442B-A0A3-2D9C7F2FE6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ECD16D-B61C-442B-A0A3-2D9C7F2FE6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
