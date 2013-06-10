@@ -1,0 +1,4 @@
+red
+===
+
+Remove empty directories
